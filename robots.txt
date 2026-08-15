@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-l84o00.hartawin.site/sitemap.xml
